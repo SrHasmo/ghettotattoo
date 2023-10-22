@@ -2,4 +2,4 @@
 
 ## Proyecto 
 
--[lading page](https://SrHasmo.github.io/\ghetotattoo/proyecto)
+-[lading page](https://SrHasmo.github.io/\ghettotattoo/proyecto)
